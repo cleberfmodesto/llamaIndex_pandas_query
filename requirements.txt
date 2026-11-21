@@ -1,0 +1,6 @@
+fpdf
+google
+gradio
+ipykernel
+llama_index
+pandas
